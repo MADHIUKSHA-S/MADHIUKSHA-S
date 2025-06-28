@@ -57,8 +57,8 @@
 ---
 
 ## 🏆 Featured Projects
-- 🚑 [**Chronic Disease Indicator**](https://github.com/MADHIUKSHA-S/ChronicDiseaseIndicatorML) — built an ML model to predict chronic disease risks using health datasets for breast cancer,diabetes,heart disease.
-- 💼 [**Consultancy Project**](https://github.com/MADHIUKSHA-S/Consultancy_Ecommerce) — developed ecommerce website for perundurai bearing and mill store with online payment facility.
+- 🚑 [**Chronic Disease Indicator**](https://chronic-disease-indicator.vercel.app/) — built an ML model to predict chronic disease risks using health datasets for breast cancer,diabetes,heart disease.
+- 💼 [**Consultancy Project**](https://pbms-frontend.onrender.com/) — developed ecommerce website for perundurai bearing and mill store with online payment facility and admin page [**PBMS**](https://pbms-admin.onrender.com/)
 - 🎬 [**OTT Media Analysis**](https://github.com/MADHIUKSHA-S/DA_OTT_MEDIA) — analyzed streaming data to uncover viewing patterns & trends between Hotstar,Netflix,Amazon Prime.
 
 ---
