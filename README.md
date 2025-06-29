@@ -4,7 +4,7 @@
   🚀 Passionate about Full Stack Development, ML & Data Analysis <br/>
   💡 Seeking exciting opportunities to learn, build & grow
 </p>
- <a href="https://linkedin.com/in/madhiuksha551" target="_blank" align="center">Portfolio</a>
+<p align="center"><a href="https://linkedin.com/in/madhiuksha551" target="_blank" >Portfolio</a></p>
 
 ---
 
